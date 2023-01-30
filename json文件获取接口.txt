@@ -1,7 +1,0 @@
-接口：http://10.20.13.225:9990/module-health/swagger-ui.html#/%E7%89%88%E6%9C%AC%E5%8F%B7/getUsingGET_9
-入参：olympic 1：亚运 2：亚残
-         type    faq：问题解答 commodity：特许商品 translationHotline：翻译热线
-
-
-账号：13657039416，密码：000000
-http://10.20.13.125/admin/#/login
